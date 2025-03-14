@@ -1,10 +1,9 @@
-# AirportCLI - Modern Command Line Interface for macOS WiFi Management
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/downloads/)
 [![GitHub issues](https://img.shields.io/github/issues/Dynosol/airport-cli)](https://github.com/Dynosol/airport-cli/issues)
 [![GitHub stars](https://img.shields.io/github/stars/Dynosol/airport-cli)](https://github.com/Dynosol/airport-cli/stargazers)
 
+```
         _____                                 _____        ___________ 
 ______ ____(_)________________ ______ __________  /___________  /___(_)
 _  __ `/__  / __  ___/___  __ \_  __ \__  ___/_  __/_  ___/__  / __  / 
