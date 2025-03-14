@@ -65,13 +65,13 @@ To install with pip:
 pip install git+https://github.com/Dynosol/airportcli.git
 ```
 
-### PyPI (coming soon)
+### PyPI (coming soon, or probably never)
 
 ```bash
 pip install airportcli
 ```
 
-### Homebrew (coming soon)
+### Homebrew (coming soon, or also probably never)
 
 ```bash
 brew install airportcli
