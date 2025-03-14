@@ -89,3 +89,4 @@ pip install -e .
 ## Acknowledgments
 
 - Inspired by the original `airport` utility in macOS
+- Special thanks to [@xwmx](https://github.com/xwmx) for the original airport utility
