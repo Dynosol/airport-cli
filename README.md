@@ -9,7 +9,7 @@ _  __ `/__  / __  ___/___  __ \_  __ \__  ___/_  __/_  ___/__  / __  /
                       /_/
 ```
 
-A command line interface for AirPort wireless on macOS, designed to replace the `airport` utility, depricated in macOS Sonoma 14.4.
+A Python-based command line interface for AirPort wireless on macOS, designed to replace the `airport` utility, depricated in macOS Sonoma 14.4.
 
 ## Usage
 
