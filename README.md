@@ -1,8 +1,3 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/downloads/)
-[![GitHub issues](https://img.shields.io/github/issues/Dynosol/airport-cli)](https://github.com/Dynosol/airport-cli/issues)
-[![GitHub stars](https://img.shields.io/github/stars/Dynosol/airport-cli)](https://github.com/Dynosol/airport-cli/stargazers)
-
 ```
         _____                                 _____        ___________ 
 ______ ____(_)________________ ______ __________  /___________  /___(_)
@@ -11,6 +6,12 @@ _  __ `/__  / __  ___/___  __ \_  __ \__  ___/_  __/_  ___/__  / __  /
 \__,_/  /_/   /_/     _  .___/ \____/ /_/     \__/  \___/  /_/   /_/   
                       /_/
 ```
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/downloads/)
+[![GitHub issues](https://img.shields.io/github/issues/Dynosol/airport-cli)](https://github.com/Dynosol/airport-cli/issues)
+[![GitHub stars](https://img.shields.io/github/stars/Dynosol/airport-cli)](https://github.com/Dynosol/airport-cli/stargazers)
+
 
 A Python-based command line interface for AirPort wireless on macOS, designed to replace the `airport` utility, depricated in macOS Sonoma 14.4.
 
