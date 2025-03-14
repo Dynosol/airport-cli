@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "airportcli"
 version = "0.1.0"
-description = "A replacement tool for AirPort wireless on macOS / OS X."
+description = "A modern command line interface for managing WiFi networks on macOS, replacing the deprecated airport utility."
 readme = "README.md"
 authors = [{ name = "Sol Kim", email = "sol.evergreen@gmail.com" }]
 license = { file = "LICENSE" }
@@ -13,11 +13,23 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
     "Programming Language :: Python",
     "Programming Language :: Python :: 3",
+    "Environment :: MacOS X",
+    "Topic :: System :: Networking",
+    "Topic :: Utilities",
+    "Intended Audience :: Developers",
+    "Intended Audience :: System Administrators",
+    "Intended Audience :: End Users/Desktop",
+    "Operating System :: MacOS :: MacOS X",
 ]
-keywords = ["airport", "wifi", "network", "scanner"]
+keywords = ["airport", "wifi", "network", "scanner", "macos", "wireless", "cli", "command-line", "utility", "sonoma", "airport-utility", "wifi-management", "network-tools"]
 dependencies = [
     "requests>=2.25.1",
 ]
 
 [project.scripts]
 airportcli = "airportcli.cli:cli"
+
+[project.urls]
+"Homepage" = "https://github.com/Dynosol/airportcli"
+"Bug Tracker" = "https://github.com/Dynosol/airportcli/issues"
+"Documentation" = "https://github.com/Dynosol/airportcli#readme"
